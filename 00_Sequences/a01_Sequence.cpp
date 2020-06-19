@@ -19,6 +19,7 @@ int main(){
     cout << "Please enter step\t\t> ";
     cin >> step;
     cout << endl;
+    cout << endl;
 
     numberOfElements = (lastElement - firstElement)/step + 1;
     cout << endl;
