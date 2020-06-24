@@ -8,7 +8,6 @@ int main(){
     system ( "clear" );
     
     int a {0};
-    int b {0};
 
     cout << "{";
     for ( int i {0}; i; ++i ){
