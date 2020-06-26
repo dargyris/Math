@@ -7,6 +7,9 @@ using std::endl;
 int main(){
     system ( "clear" );
     
+
+
+
     fflush ( stdin );
     cin.get();
     return 0;
